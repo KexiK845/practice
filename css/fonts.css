@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "HelveticaNeue";
+  src: url("../fonts/HelveticaNeue-Roman.otf");
+  font-weight: 400;
+}
+
+body {
+  font-family: "HelveticaNeue";
+}
